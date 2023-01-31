@@ -51,7 +51,6 @@ print(
 # The Fibonacci sequence of numbers is a sequence of numbers whose first two terms are 1 and each subsequent term is the sum of the 2 terms preceding it.
 # Print the first 100 Fibonacci numbers to the screen.
 # 1, 1, 2, 3, 5, 8, 13, 21, ...
-
 fibonacci_list = []
 fibonacci_list.append(1)
 fibonacci_list.append(1)
