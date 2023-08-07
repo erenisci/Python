@@ -1,0 +1,68 @@
+NAME                          SURNAME                        JOB                          AVERAGE
+
+Eleanor                       Taylor                         Fizik                        78.4
+Lyla                          Dawson                         Matematik                    89.5
+Cora Gill                     Maryam                         Matematik Muh                83.4
+Darcey                        Parker                         Fizik                        58.0
+Jorgie                        James                          Bilgisayar Muh               79.7
+Amara Allen                   Eloise                         Kimya Muh                    69.4
+Keira                         Khan                           Bilgisayar Muh               76.5
+Scarlett                      Stone                          Matematik                    89.5
+Arabella                      Wallace                        Bilgisayar Muh               74.8
+Darcey                        Woods                          Fizik                        77.9
+Brynn                         Thomas                         Kimya Muh                    75.2
+Robin                         Spencer                        Matematik                    94.9
+Jamie                         Dawson                         Fizik Muh                    77.9
+Val                           Kaur                           Matematik Muh                76.3
+Morgan                        Pearson                        Bilgisayar Muh               77.9
+Bailey Gill                   River                          Fizik                        85.1
+Alexis                        Hamilton                       Fizik                        77.9
+Shay                          Smith                          Matematik Muh                83.0
+Silver                        Barker                         Matematik                    79.7
+Brook                         Kaur                           Matematik Muh                73.0
+James                         Harper                         Bilgisayar Muh               75.8
+John                          Hunter                         Fizik                        61.2
+Robert                        Harper                         Kimya                        82.6
+Michael                       Alex                           Kimya Muh                    81.8
+William                       Hussain                        Fizik Muh                    69.0
+David                         Knight                         Bilgisayar Muh               77.9
+Richard                       Jeff                           Matematik                    61.2
+Charles Booth                 Hamish                         Bilgisayar Muh               62.4
+Joseph Dillon                 Spencer                        Matematik Muh                89.5
+Thomas James                  Zachary                        Gida Muh                     81.3
+Christopher                   Dawson                         Bilgisayar Muh               79.7
+Daniel                        Porter                         Fizik Muh                    68.0
+Paul Rufus                    Pearson                        Matematik                    81.2
+Mark Conor                    Smith                          Kimya Muh                    90.6
+Donald Kenneth                Egilmez                        Kimya Muh                    86.0
+Steven                        Johnson                        Fizik                        80.6
+Martin                        Hank                           Bilgisayar Muh               79.3
+George                        Aston                          Kimya Muh                    73.8
+Kenneth                       Rogers                         Fizik                        59.6
+Tim                           Jack                           Matematik Muh                72.1
+Edward Frankie                Adams                          Fizik                        86.8
+Brian                         John                           Kimya                        80.8
+Ronald                        Tate                           Bilgisayar Muh               68.8
+Anthony                       Casper                         Fizik Muh                    64.8
+Kevin Maxwell                 Kennedy                        Matematik                    72.5
+Jason                         Rogers                         Fizik Muh                    72.5
+Glen                          Francis                        Fizik                        80.4
+Lee                           Fletcher                       Bilgisayar Muh               73.1
+Jo                            Khan                           Matematik Muh                47.8
+Bev                           Cunningham                     Kimya Muh                    67.8
+Brook                         Duncan                         Bilgisayar Muh               88.7
+Phoenix                       Phillips                       Matematik                    77.8
+Alicia Jody                   Pearson                        Fizik                        79.2
+Amalia                        Atkinson                       Fizik Muh                    70.8
+Marley Sienna                 Robertson                      Bilgisayar Muh               87.3
+Ariella                       Hamilton                       Fizik                        74.5
+Rose Jasmine                  Francis                        Matematik                    82.2
+Lara                          Mccarthy                       Kimya Muh                    79.0
+Jemima                        Fox                            Matematik Muh                58.3
+Blossom                       Cooper                         Bilgisayar Muh               78.6
+Stella                        Thompson                       Fizik                        89.5
+Ariella                       Davies                         Fizik Muh                    71.0
+Lily Rose                     Kelly                          Matematik                    78.8
+Gabe                          Wells                          Bilgisayar Muh               73.8
+Taylor                        Evans                          Kimya Muh                    72.9
+Jamie                         Henderson                      Matematik                    72.4
